@@ -1,0 +1,1 @@
+py -3.11 '.\hill climb game\main.py'
